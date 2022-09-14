@@ -1,0 +1,263 @@
+* {
+    font-family: Poppins;
+}
+
+body {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    margin-top: auto;
+    margin-bottom: auto;
+    color: #152C5B;
+}
+
+li {
+    margin-right: 15px;
+}
+
+.header {
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #E5E5E5;
+}
+
+.header h1 {
+    color: #152C5B;
+}
+
+.stay {
+    color: #3252DF;
+}
+
+.firstlist {
+    color: #3252DF;
+}
+
+main .show__me {
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: max-content;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.forget__your {
+    position: relative;
+    margin-right: 150px;
+}
+
+.forget__your h2 {
+    font-size: 42px;
+    color: #152C5B;
+}
+
+.forget__your p {
+    color: #B0B0B0;
+}
+
+.forget__your button {
+    background-color: #3252DF;
+    color: white;
+    border: none;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 30px;
+}
+
+.travel {
+    position: absolute;
+    display: flex;
+    bottom: 0;
+    left: 0;
+}
+
+.travel div {
+    margin-right: 30px;
+}
+
+.travel span {
+    color: #152C5B;
+    font-weight: bold;
+}
+
+.most {
+    margin-top: 100px;
+    width: max-content;
+    padding: auto;
+    padding-left: auto;
+    padding-right: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pohon {
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: 30px;
+}
+
+.pic {
+    position: relative;
+}
+
+.gambar1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+}
+
+.pic1 {
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.pic2 {
+    position: relative;
+}
+
+.pic3 {
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.pic4 {
+    position: relative;
+}
+
+.boxpink {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 180px;
+    height: 40px;
+    background-color: #FF498B;
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+    border-radius: 0px 15px;
+}
+
+.tulisan {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    color: #152C5B;
+}
+
+.colorspan {
+    color: white;
+    font-weight: bold;
+}
+
+.Houses {
+    margin-top: 95px;
+    width: max-content;
+    padding-left: auto;
+    padding-right: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.gambar2 {
+    display: flex;
+    flex-direction: row;
+}
+
+.gbr1 {
+    position: relative;
+    margin-right: 30px;
+}
+
+.gbr2 {
+    position: relative;
+    margin-right: 30px;
+}
+
+.gbr3 {
+    position: relative;
+    margin-right: 30px;
+}
+
+.gbr4 {
+    position: relative;
+    margin-right: 30px;
+}
+
+
+.Happy {
+    display: flex;
+    flex-direction: row;
+    width: max-content;
+    padding-left: auto;
+    padding-right: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+
+.box1 {
+    flex-grow: 3;
+    margin: auto;
+    padding: auto;
+    margin-left: 50px;
+}
+
+.box1 h3 {
+    color: #152C5B;
+}
+
+.bintang {
+    display: flex;
+    flex-direction: row;
+}
+
+.box1 button {
+    background-color: #3252DF;
+    color: white;
+    border: none;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 30px;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    padding-left: 50px;
+    padding-right: 50px;
+    align-items: center;
+    border-top: 2px solid #E5E5E5;
+    margin-top: 50px;
+}
+
+.cover {
+    display: flex;
+    flex-direction: row;
+}
+
+.fot1 {
+    /* flex-grow: 1; */
+    margin-right: 75px;
+}
+
+.fot1 p {
+    color: #B0B0B0;
+}
+
+.fot1 h2 {
+    color: #152C5B;
+}
